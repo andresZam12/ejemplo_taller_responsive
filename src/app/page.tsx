@@ -167,7 +167,7 @@ function Topbar() {
         <button className="p-2 rounded-lg hover:bg-white/10"><Bell /></button>
         <div className="h-8 w-[1px] bg-white/10" />
         <div className="flex items-center gap-2">
-          <img src="https://i.pravatar.cc/100?img=12" alt="me" className="h-8 w-8 rounded-full object-cover" />
+          <img src="imgd.jpeg" alt="me" className="h-8 w-8 rounded-full object-cover" />
           <div className="text-sm leading-tight">
             <div className="font-semibold">Ramona F.</div>
             <div className="text-white/60 text-xs">Level 12</div>
@@ -186,7 +186,7 @@ function Hero() {
     <section className="mt-6">
       <div className="relative rounded-2xl overflow-hidden shadow-soft">
         <img
-          src="/art/witcher.jpg"
+          src="imgd.jpeg"
           alt="The Witcher"
           className="w-full h-[260px] md:h-[320px] object-cover"
         />
